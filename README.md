@@ -8,6 +8,10 @@ I'm a computer science student currently pursuing a Master's degree in IWOCS. I'
 
 Through my academic projects and professional experience, I've developed web applications, worked with relational databases, and explored blockchain consensus mechanisms and real-time IoT applications.
 
+## Curriculum Vitae
+
+📄 [Download my CV (PDF)](https://github.com/BoussadHm/CV/blob/main/CV_Boussad_HAMMOUM.pdf)
+
 🔎 **Looking for a 6-month end-of-studies internship starting in February 2027.**
 
 ## My Projects
