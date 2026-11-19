@@ -10,7 +10,7 @@ Through my academic projects and professional experience, I've developed web app
 
 ## Curriculum Vitae
 
-📄 [Download my CV (PDF)](https://github.com/BoussadHm/CV/blob/main/CV_Boussad_HAMMOUM.pdf)
+📄 [Download my CV (PDF)](https://github.com/BoussadHm/boussadHm/blob/main/Boussad_HAMMOUM_CV_stage.pdf)
 
 🔎 **Looking for a 6-month end-of-studies internship starting in February 2027.**
 
